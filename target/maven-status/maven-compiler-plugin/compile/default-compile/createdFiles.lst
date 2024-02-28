@@ -1,0 +1,8 @@
+in\yarraneella\entity\Voter.class
+in\yarraneella\controller\VoterController.class
+in\yarraneella\model\VoterResponse.class
+in\yarraneella\repository\VoterRepository.class
+in\yarraneella\service\VoterService.class
+in\yarraneella\service\VoterServiceImpl.class
+in\yarraneella\model\VoterRequest.class
+in\yarraneella\VoterIdGenerationApplication.class
